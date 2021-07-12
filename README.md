@@ -1,5 +1,8 @@
 # python_missing_math
 
+## head to the Wiki (https://github.com/EMiner3/python_missing_math/wiki) for more information!
+
+
 This small module contains:
 
  - basic low frequency oscillator (lfo)
